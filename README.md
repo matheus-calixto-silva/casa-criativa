@@ -2,6 +2,10 @@
     <img src="public/Logo.png">
 </h1>
 
+## Casa Criativa
+
+[![Author](https://img.shields.io/badge/Autor-Matheus%20Calixto-blueviolet)](https://github.com/matheus-calixto-silva)
+
 <h1 align="center" style="border-radius: 8px;">
     <img src="public/layout.png">
 </h1>
@@ -12,7 +16,7 @@ Casa criativa é Uma aplicação web criada durante o Workshopdev da Rocketseat 
 
 ---
 
-# Tecnologias utilizadas #
+# Tecnologias #
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
@@ -23,6 +27,26 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - [Express](https://expressjs.com/pt-br/)
 - [nodeJS](https://nodejs.org/en/)
 - [Sqlite3](https://www.sqlite.org/index.html)
+
+---
+
+## 💻 Getting started
+
+### Requisitos
+
+- Vocẽ precisa instalar [Node.js](https://nodejs.org/en/download/) para rodar este projeto.
+
+**Para clonar o projeto use o comando abaixo*
+
+```bash
+$ git clone https://github.com/matheus-calixto-silva/casa-criativa.git
+```
+
+---
+
+## 📝 Licença
+
+Este projeto está licenciado sob a Licença MIT - veja [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
